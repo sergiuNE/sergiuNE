@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Sergiu ! 👋<br><br>I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Node.Js and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br>🌱 Currently learning: Java<br><br>💡 Fun fact: I started to create my first website when I was 15 years old<br><br>![sergiuNE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiuNE&theme=dark&show_icons=true)
+## Hi, I'm Sergiu Neagu ! 👋<br><br>I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Node.Js and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br>🌱 Currently learning: Java<br><br>💡 Fun fact: I started to create my first website when I was 15 years old<br><br>![sergiuNE's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiuNE&theme=dark&show_icons=true)
 
 
 ## 🌐 Socials:
