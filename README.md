@@ -1,5 +1,5 @@
 # About Me:
-## Hi, I'm Sergiu Neagu ! 👋<br><br>I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Node.Js and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br> Currently learning: Spring Boot, TypeScript & UX/IU Interface<br><br>💡 Fun fact: I started to create my first website when I was 17 years old<br><br>
+## Hi, I'm Neagu Sergiu Vasile ! 👋<br><br>I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Node.Js and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br> Currently learning: Spring Boot, TypeScript & UX/IU Interface<br><br>💡 Fun fact: I started to create my first website when I was 17 years old<br><br>
 
 
 ## 🌐 Socials:
