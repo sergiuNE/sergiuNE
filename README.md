@@ -1,4 +1,4 @@
-# Hi, I'm Neagu Sergiu ! 👋🏼
+[here](https://sergiuNE.github.io/sergiuNE/typing-animation.html)
 ## I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Java and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br> Currently learning: Spring Boot <br><br>💡 Fun fact: I started to create my first website when I was 17 years old<br><br>
 
 
