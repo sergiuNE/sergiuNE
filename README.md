@@ -2,7 +2,7 @@
 
 ## Passionate developer who loves building impactful projects and learning new tech. Skilled in C#, JavaScript, Java, and more. 
 ## Currently learning Spring Boot. 
-## 💡Fun fact: I built my first website at 17.
+## 💡Fun fact: I created my first website at 17.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-neagu28/) 
