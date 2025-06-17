@@ -1,8 +1,8 @@
-##[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Neagu+Sergiu+!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Neagu+Sergiu+!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
-## **Passionate developer who loves building impactful projects and learning new tech. Skilled in C#, JavaScript, Java, and more. 
+## Passionate developer who loves building impactful projects and learning new tech. Skilled in C#, JavaScript, Java, and more. 
 # Currently learning Spring Boot. 
-#💡Fun fact: I built my first website at 17.**
+# 💡Fun fact: I built my first website at 17.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-neagu28/) 
