@@ -1,6 +1,4 @@
-(https://sergiuNE.github.io/sergiuNE/typing-animation.html)
-## I’m a passionate developer with a love for building impactful projects and learning new tech. Skilled in C#, JavaScript, Java and more, with a focus on clean, efficient code and collaborative problem-solving.<br><br> Currently learning: Spring Boot <br><br>💡 Fun fact: I started to create my first website when I was 17 years old<br><br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Neagu+Sergiu+!+👋🏼;I’m+a+passionate+developer+with+a+love+for+building+impactful+projects+and+learning+new+tech.+Skilled+in+C#,+JavaScript,+Java+and+more,+with+a+focus+on+clean,+efficient+code+and+collaborative+problem-solving.+Currently+learning:+Spring+Boot+💡Fun+fact:+I+started+to+create+my+first+website+when+I+was+17+years+old)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-neagu28/) 
