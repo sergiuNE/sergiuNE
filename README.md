@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Neagu+Sergiu+!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
-## Passionate developer who loves building impactful projects and learning new tech. Skilled in C#, JavaScript, Java, and more. 
-## Currently learning Spring Boot, Angular and React Native. 
+## Passionate developer who loves building impactful projects and learning new tech. Skilled in C#, TypeScript, DevOps, and more. 
+## Currently learning Spring Boot, Flitter and React Native. 
 ## 💡Fun fact: I created my first website at 17.
 
 ## 🌐 Socials:
