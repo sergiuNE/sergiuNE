@@ -12,7 +12,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="./stats.svg"/>
   <img height="180em" src="./top-langs.svg"/>
 </p>
 
