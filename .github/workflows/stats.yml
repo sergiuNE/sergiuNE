@@ -1,0 +1,34 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=sergiuNE&show_icons=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=2E3A59
+          path: stats.svg
+
+      - name: Generate top languages
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=sergiuNE&layout=compact&langs_count=6&title_color=4FC3F7&text_color=2E3A59
+          path: top-langs.svg
+
+      - name: Commit files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add *.svg
+          git commit -m "Update stats" || exit 0
+          git push
