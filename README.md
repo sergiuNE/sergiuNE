@@ -11,7 +11,7 @@
 
 ## GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiuNE&show_icons=true&theme=default&title_color=4FC3F7&icon_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF&border_color=E0E0E0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiuNE&layout=compact&langs_count=6&title_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF&border_color=E0E0E0"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sergiuNE&show_icons=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sergiuNE&layout=compact&langs_count=6&title_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF"/>
 </p>
 
