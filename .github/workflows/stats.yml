@@ -18,14 +18,14 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=sergiuNE&show_icons=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=2E3A59
+          options: username=sergiuNE&show_icons=true&include_all_commits=true&hide=contribs&custom_title=Sergiu's%20GitHub%20Stats&title_color=4FC3F7&icon_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF&border_color=E0E0E0
           path: stats.svg
 
       - name: Generate top languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=sergiuNE&layout=compact&langs_count=6&title_color=4FC3F7&text_color=2E3A59
+          options: username=sergiuNE&layout=compact&langs_count=6&title_color=4FC3F7&text_color=2E3A59&bg_color=FFFFFF&border_color=E0E0E0
           path: top-langs.svg
 
       - name: Commit files
