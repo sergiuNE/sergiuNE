@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Neagu+Sergiu+!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sergiu+Neagu+!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 ### IT student & full-stack developer based in Antwerp, Belgium. I build web, mobile and game projects with Java, Spring Boot, Angular and TypeScript, and I enjoy DevOps (Docker, Traefik, Jenkins, Kubernetes). Open to internships and junior roles.
 
