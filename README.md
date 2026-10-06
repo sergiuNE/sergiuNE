@@ -2,7 +2,7 @@
 
 ### IT student & full-stack developer based in Antwerp, Belgium. I build web, mobile and game projects with Java, Spring Boot, Angular and TypeScript, and I enjoy DevOps (Docker, Traefik, Jenkins, Kubernetes). Open to internships and junior roles.
 
-## 🌐 Socials:
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-neagu28/) 
 
 ## Tech Stack
@@ -31,7 +31,7 @@
 **Also:** MonoGame · Mockito · cAdvisor · draw.io · Moodle · REST APIs · Microservices · SOLID
 
 
-# GitHub Stats:
+# GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=sergiuNE&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sergiuNE&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sergiuNE&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
